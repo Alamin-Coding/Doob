@@ -163,4 +163,7 @@ button{
     margin: 0 10px;
     transition: .3s;
 }
+.after_display_none::after{
+	display: none !important;
+}
 /* All Common css End */
