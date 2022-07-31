@@ -818,5 +818,37 @@ svg.feather.feather-cast{
 
 
 
-/* Service part start */
-/* Service part End */
+/* purchase part start */
+#purchase{
+    padding: 100px 0;
+}
+.purchase_item{
+    padding: 90px;
+    background: #f5f8fa;
+    border-radius: 16px;
+}
+/* purchase part End */
+
+
+/* Footer part start */
+#footer{
+    background: #f5f8fa;
+    padding: 100px;
+}
+.footer_item .logo{
+    width: 158px;
+}
+.footer_item .inner_item{
+    padding-bottom: 20px;
+}
+.footer_item .inner_item input{
+    border: 2px solid #00000024;
+    background: transparent;
+    padding: 10px;
+    border-radius: 5px;
+}
+.footer_item .inner_item button{
+    padding: 10px 15px;
+}
+
+/* Footer part End */

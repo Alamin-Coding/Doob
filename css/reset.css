@@ -154,7 +154,7 @@ button{
 	max-width: 385px;
 	margin: auto;
 }
- a.button{
+.button{
     padding: 15px 30px;
     border-radius: 10px;
     background: linear-gradient(95deg, var(--color-primary) 15%, var(--color-tertiary) 45%, var(--color-pink) 75%, var(--color-secondary) 100%) 95%/200% 100%;
